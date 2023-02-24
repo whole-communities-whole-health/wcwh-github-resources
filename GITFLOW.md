@@ -70,6 +70,7 @@ git push origin name-of-your-branch (i.e. git push origin feature/jdoe)
 ```
 
 4. Creating a pull request
+
 Once you've committed and pushed all of your changes to GitHub, go to the repo page on GitHub, select your development branch, and click the green "Compare & pull request" button. On the next screen, click "Create pull request," and finally "Merge pull request."
 
  If you need to make any adjustments to your pull request, just push the updates to GitHub. Your pull request will automatically track the changes on your development branch and update.
